@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizal Sujana</h1>
+<h1 align="center">Hi 👋, I'm Rizal Sujana (Ical)</h1>
 <h3 align="center">As an experienced full-stack developer, I am dedicated to transforming ideas into innovative web applications. I invite you to explore the latest projects and articles showcasing my expertise in web and mobile development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbitdev1&label=Profile%20views&color=0e75b6&style=flat" alt="rabbitdev1" /> </p>
