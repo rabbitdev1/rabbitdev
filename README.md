@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ical_lucifer" target="blank"><img src="https://img.shields.io/twitter/follow/ical_lucifer?logo=twitter&style=for-the-badge" alt="ical_lucifer" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rabbitdev1.github.io/portofolio/](https://rabbitdev1.github.io/portofolio/)
+- 👨‍💻 All of my projects are available at [https://rabbitdev1.github.io/portofolio/](rabbitdev1.github.io/ical-portofolio/)
 
 - 📫 How to reach me **zalsujana07@gmail.com**
 
-- 📄 Know about my experiences [https://rabbitdev1.github.io/portofolio/cv.pdf](https://rabbitdev1.github.io/portofolio/cv.pdf)
+- 📄 Know about my experiences [https://rabbitdev1.github.io/portofolio/cv.pdf](rabbitdev1.github.io/ical-portofolio/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
